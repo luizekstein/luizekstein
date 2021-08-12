@@ -1,4 +1,4 @@
-## Olá! Eu sou o Luiz Ekstein
+## Prazer, me chamo Luiz Ekstein!
 
 - 👨‍💻 Hoje trabalho como Mobile Developer (front-end)
 - 📜 Estudando Analise de Sistemas
