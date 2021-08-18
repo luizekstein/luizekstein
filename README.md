@@ -14,10 +14,11 @@
   <img align="center" alt="Lu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lu-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lu-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Lu-MySQL" height="30" width="30" src="https://cloud.githubusercontent.com/assets/6188052/20116784/b3124190-a5cb-11e6-9472-85f17f196023.png">
   <img align="center" alt="Lu-AngJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Lu-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Lu-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Lu-MySQL" height="30" width="40" src="https://cloud.githubusercontent.com/assets/6188052/20116784/b3124190-a5cb-11e6-9472-85f17f196023.png">
+  
 </div>
   
 ## 
